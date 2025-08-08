@@ -24,7 +24,11 @@ status-website:
   themeUrl: https://example.com/custom.css
   js: |
     window.onload = function () {
-      // Remove footer with exact class
+      // Remove the footer
       var footer = document.querySelector('footer.svelte-jbr799');
       if (footer) footer.remove();
+
+      // Remove the "All systems are operational" article
+      var statusArticle = document.querySelector('article.up');
+      if (statusArticle) statusArticle.remove();
     };
