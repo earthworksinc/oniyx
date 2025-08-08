@@ -24,7 +24,6 @@ status-website:
   themeUrl: https://example.com/custom.css
   js: |
     window.onload = function () {
-      alert('Hello!');
       var footer = document.querySelector('footer');
       if (footer) footer.remove();
     };
