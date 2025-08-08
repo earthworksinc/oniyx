@@ -33,13 +33,6 @@ status-website:
    #   if (statusArticle) statusArticle.remove();
    # };
    js: |
-    window.onload = function () {
-      var main = document.querySelector('main');
-      if (main) main.style.display = 'none';
-
-      var customContent = document.createElement('div');
-      customContent.innerHTML = '<h1 style="text-align:center;">Maintenance in Progress</h1><p style="text-align:center;">Please check back later.</p>';
-      document.body.appendChild(customContent);
-    };
+      js: "window.onload = function () { var main = document.querySelector('main'); if (main) main.style.display = 'none'; var div = document.createElement('div'); div.innerHTML = '<h1 style=\"text-align:center;\">Maintenance in Progress</h1><p style=\"text-align:center;\">Please check back later.</p>'; document.body.appendChild(div); };"
   # customFootHtml: '<footer style="text-align: center; padding: 1em; color: #ccc;">© 2025 Earthworks Inc. | All rights reserved.</footer>'
 
