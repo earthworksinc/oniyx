@@ -25,7 +25,3 @@
   --graph-filter: none;
 }
 
-/* Hide the "powered by Upptime" footer line */
-footer a[href*="upptime"] {
-  display: none !important;
-}
