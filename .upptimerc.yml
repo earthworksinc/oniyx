@@ -20,4 +20,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-  theme: light
+  #theme: light
+  themeUrl: https://example.com/custom.css
+
