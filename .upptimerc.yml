@@ -22,4 +22,5 @@ status-website:
 # See https://upptime.js.org/docs/configuration
   #theme: light
   themeUrl: https://example.com/custom.css
+  customHeadHtml: "<style>footer a[href*='upptime'] { display: none !important; }</style>"
 
