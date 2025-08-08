@@ -22,15 +22,15 @@ status-website:
 # See https://upptime.js.org/docs/configuration
   #theme: light
   themeUrl: https://example.com/custom.css
-  js: |
-    window.onload = function () {
-      // Remove the footer
-      var footer = document.querySelector('footer.svelte-jbr799');
-      if (footer) footer.remove();
+  #js: |
+  #  window.onload = function () {
+  #    // Remove the footer
+  #    var footer = document.querySelector('footer.svelte-jbr799');
+  #    if (footer) footer.remove();
 
-      // Remove the "All systems are operational" article
-      var statusArticle = document.querySelector('article.up');
-      if (statusArticle) statusArticle.remove();
-    };
+   #   // Remove the "All systems are operational" article
+   #   var statusArticle = document.querySelector('article.up');
+   #   if (statusArticle) statusArticle.remove();
+   # };
   customFootHtml: '<footer style="text-align: center; padding: 1em; color: #ccc;">© 2025 Earthworks Inc. | All rights reserved.</footer>'
 
