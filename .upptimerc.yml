@@ -24,6 +24,7 @@ status-website:
   themeUrl: https://example.com/custom.css
   js: |
     window.onload = function () {
-      var footer = document.querySelector('footer');
+      // Remove footer with exact class
+      var footer = document.querySelector('footer.svelte-jbr799');
       if (footer) footer.remove();
     };
