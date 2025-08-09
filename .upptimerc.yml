@@ -21,8 +21,36 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
   #theme: light
-  themeUrl: https://example.com/custom.css
+  themeUrl: https://earthworksinc.github.io/assets/custom.css
+  css: "
+  section.svelte-8lnl4f {
+      display: none !important;
+    }
+
+    footer.svelte-jbr799 {
+      display: none !important;
+    }
+
+    header.svelte-ngkazm {
+      display: none !important;
+    }
+
+    body {
+      opacity: 1;
+    }
   
+  #body {
+   #   opacity: 0.7;
+   # }
+
+    #footer.svelte-jbr799 {
+    #  display: none !important;
+    #}
+
+    #header.svelte-ngkazm {
+    #  display: none !important;
+    #}
+  "
 
   #js: |
   #  window.onload = function () {
