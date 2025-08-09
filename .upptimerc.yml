@@ -23,8 +23,9 @@ status-website:
   #theme: light
   themeUrl: https://example.com/custom.css
   css: "
-  body {
-      opacity: 0.7;
+
+  section.svelte-8lnl4f {
+      display: none !important;
     }
 
     footer.svelte-jbr799 {
@@ -34,6 +35,25 @@ status-website:
     header.svelte-ngkazm {
       display: none !important;
     }
+
+    body {
+      opacity: 0.5;
+    }
+
+
+
+  
+  #body {
+   #   opacity: 0.7;
+   # }
+
+    #footer.svelte-jbr799 {
+    #  display: none !important;
+    #}
+
+    #header.svelte-ngkazm {
+    #  display: none !important;
+    #}
   "
 
   #js: |
