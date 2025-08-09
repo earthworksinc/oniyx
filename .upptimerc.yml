@@ -24,9 +24,13 @@ status-website:
   themeUrl: https://example.com/custom.css
   css: "
   body { opacity: 0.5 }
+  
   footer.svelte-jbr799 {
-  display: none !important;
-  } "
+  display: none !important;} 
+
+  header.svelte-ngkazm {
+  display: none !important;}
+  "
 
   #js: |
   #  window.onload = function () {
