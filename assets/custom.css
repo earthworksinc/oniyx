@@ -1,6 +1,6 @@
 :root {
   --body-background-color: #7c7c7c;
-  --body-text-color: #f0ffff;
+  --body-text-color: #7c7c7c;
   --card-background-color: #002b29;
   --nav-background-color: #002b29;
   --nav-border-bottom-color: #015450;
@@ -21,7 +21,7 @@
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
-  --graph-opacity: 0.1;
+  --graph-opacity: 1;
   --graph-filter: none;
 }
 
