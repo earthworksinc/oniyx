@@ -22,6 +22,8 @@ status-website:
 # See https://upptime.js.org/docs/configuration
   #theme: light
   themeUrl: https://example.com/custom.css
+  css: "body { opacity: 0.5 }"
+
   #js: |
   #  window.onload = function () {
   #    // Remove the footer
