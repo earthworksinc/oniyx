@@ -22,21 +22,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
   #theme: light
   themeUrl: https://earthworksinc.github.io/oniyx/custom.css
-  css: "
   
-  
-  #body {
-   #   opacity: 0.7;
-   # }
-
-    #footer.svelte-jbr799 {
-    #  display: none !important;
-    #}
-
-    #header.svelte-ngkazm {
-    #  display: none !important;
-    #}
-  "
 
   #js: |
   #  window.onload = function () {
