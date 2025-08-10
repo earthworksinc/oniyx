@@ -5,4 +5,20 @@
   --nav-background-color: #002b29;
   --nav-border-bottom-color: #015450;
 }
-/* . . . */
+
+body {
+  opacity: 1;
+}
+
+/* Hide header, footer, and section using Svelte-generated classes */
+section.svelte-8lnl4f {
+  display: none !important;
+}
+
+footer.svelte-jbr799 {
+  display: none !important;
+}
+
+header.svelte-ngkazm {
+  display: none !important;
+}
