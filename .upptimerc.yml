@@ -20,10 +20,10 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-  #theme: light
+  theme: light
  # themeUrl: https://earthworksinc.github.io/oniyx/custom.css
 
-  css: |
+  css: "
     section.svelte-8lnl4f {
       display: none !important;
     }
@@ -35,6 +35,7 @@ status-website:
     header.svelte-ngkazm {
       display: none !important;
     }
+    "
   
 
   #js: |
