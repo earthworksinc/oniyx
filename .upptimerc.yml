@@ -35,6 +35,10 @@ status-website:
     header.svelte-ngkazm {
       display: none !important;
     }
+
+    header.svelte-8lnl4f {
+      display: none !important;
+    }
  
     
     "
