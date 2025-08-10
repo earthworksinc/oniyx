@@ -23,7 +23,7 @@ status-website:
   #theme: light
  # themeUrl: https://earthworksinc.github.io/oniyx/custom.css
 
- css: "
+  css: |
     section.svelte-8lnl4f {
       display: none !important;
     }
@@ -35,7 +35,6 @@ status-website:
     header.svelte-ngkazm {
       display: none !important;
     }
-    "
   
 
   #js: |
