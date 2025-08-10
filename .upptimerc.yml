@@ -36,9 +36,7 @@ status-website:
       display: none !important;
     }
  
-    article.up {
-    display: none !important;
-    }
+    
     "
   
 
