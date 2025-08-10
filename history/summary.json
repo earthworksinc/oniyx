@@ -6,15 +6,15 @@
     "slug": "oniyx",
     "status": "up",
     "uptime": "92.53%",
-    "uptimeDay": "74.04%",
+    "uptimeDay": "74.44%",
     "uptimeWeek": "92.53%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "92.53%",
-    "time": 3308,
-    "timeDay": 3281,
-    "timeWeek": 3308,
-    "timeMonth": 3308,
-    "timeYear": 3308,
+    "time": 3303,
+    "timeDay": 3265,
+    "timeWeek": 3303,
+    "timeMonth": 3303,
+    "timeYear": 3303,
     "dailyMinutesDown": {
       "2025-08-09": 540
     }
