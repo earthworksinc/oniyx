@@ -1,7 +1,9 @@
 :root {
-  --body-background-color: #001716;
-  --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #015450;
+  --body-background-color: #ffffff;       /* white */
+  --body-text-color: #000000;             /* black or any dark text color for contrast */
+  --card-background-color: #ffffff;       /* white, matching body background */
+  --nav-background-color: #ffffff;        /* white */
+  --nav-border-bottom-color: #cccccc;     /* light grey or your preferred border color */
+
+  --graph-color: red;                     /* Add this if you have a custom variable for graphs */
 }
