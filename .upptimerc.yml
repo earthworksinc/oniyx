@@ -25,22 +25,24 @@ status-website:
 
   css: "
     section.svelte-8lnl4f {
-      display: none !important;
+    display: none !important;
     }
 
     footer.svelte-jbr799 {
-      display: none !important;
+    display: none !important;
     }
 
     header.svelte-ngkazm {
-      display: none !important;
+    display: none !important;
     }
 
     header.svelte-8lnl4f {
-      display: none !important;
+    display: none !important;
     }
- 
-    
+
+    article.up {
+    display: none !important;
+    }
     "
   
 
