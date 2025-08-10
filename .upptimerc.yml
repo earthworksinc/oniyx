@@ -39,10 +39,6 @@ status-website:
     header.svelte-8lnl4f {
     display: none !important;
     }
-
-    article.up {
-    display: none !important;
-    }
     "
   
 
