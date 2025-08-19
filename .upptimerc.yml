@@ -29,7 +29,9 @@ status-website:
     footer.svelte-jbr799,
     header.svelte-ngkazm,
     header.svelte-8lnl4f, 
-    img.icon.svelte-fqsq6s {
+    img.icon.svelte-fqsq6s,
+    svelte-18y4uo2
+    {
       display: none !important;
     }
     "
