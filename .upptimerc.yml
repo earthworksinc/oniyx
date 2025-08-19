@@ -30,7 +30,8 @@ status-website:
     header.svelte-ngkazm,
     header.svelte-8lnl4f, 
     img.icon.svelte-fqsq6s,
-    svelte-18y4uo2
+    svelte-18y4uo2,
+    up
     {
       display: none !important;
     }
