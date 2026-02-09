@@ -31,7 +31,10 @@ status-website:
     header.svelte-8lnl4f, 
     img.icon.svelte-fqsq6s,
     svelte-18y4uo2,
-    up,
+    up
+    {
+      display: none !important;
+    },
     down link 
     {
       display: none !important;
