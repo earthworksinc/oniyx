@@ -1,0 +1,25 @@
+name: Sync UptimeRobot monitors
+
+on:
+  push:
+    paths:
+      - uptimerc.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uptimerobot-cli
+        run: npm install -g uptimerobot-cli
+
+      - name: Sync monitors
+        env:
+          UPTIMEROBOT_API_KEY: ${{ secrets.UPTIMEROBOT_API_KEY }}
+        run: uptimerobot sync --config uptimerc.yml
