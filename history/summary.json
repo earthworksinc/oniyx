@@ -1,8 +1,8 @@
 [
   {
     "name": "Oniyx",
-    "url": "https://alkew.ca",
-    "icon": "https://icons.duckduckgo.com/ip3/alkew.ca.ico",
+    "url": "https://sub.oniyx.io",
+    "icon": "https://icons.duckduckgo.com/ip3/sub.oniyx.io.ico",
     "slug": "oniyx",
     "status": "up",
     "uptime": "35.72%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "35.72%",
-    "time": 2776,
-    "timeDay": 1679,
-    "timeWeek": 1840,
-    "timeMonth": 1861,
-    "timeYear": 2776,
+    "time": 2768,
+    "timeDay": 1657,
+    "timeWeek": 1814,
+    "timeMonth": 1854,
+    "timeYear": 2768,
     "dailyMinutesDown": {
       "2026-03-14": 165,
       "2026-03-05": 89,
