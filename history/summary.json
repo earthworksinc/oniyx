@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/oniyx.io.ico",
     "slug": "oniyx",
     "status": "down",
-    "uptime": "42.71%",
+    "uptime": "42.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "75.88%",
-    "uptimeMonth": "57.92%",
-    "uptimeYear": "42.71%",
+    "uptimeMonth": "56.74%",
+    "uptimeYear": "42.66%",
     "time": 2534,
     "timeDay": 0,
     "timeWeek": 3359,
@@ -196,7 +196,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 827,
-      "2026-05-24": 229,
+      "2026-05-24": 749,
       "2026-05-23": 1436
     }
   }
