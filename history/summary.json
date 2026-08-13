@@ -4,17 +4,17 @@
     "url": "https://sub.oniyx.io",
     "icon": "https://icons.duckduckgo.com/ip3/sub.oniyx.io.ico",
     "slug": "oniyx",
-    "status": "up",
-    "uptime": "54.44%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "54.47%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "53.57%",
-    "time": 3478,
-    "timeDay": 10582,
-    "timeWeek": 7742,
-    "timeMonth": 8096,
-    "timeYear": 3501,
+    "time": 3468,
+    "timeDay": 5542,
+    "timeWeek": 6837,
+    "timeMonth": 7859,
+    "timeYear": 3490,
     "dailyMinutesDown": {
       "2025-08-17": 38,
       "2025-08-19": 185,
@@ -203,7 +203,8 @@
       "2026-05-29": 706,
       "2026-05-30": 782,
       "2026-05-31": 591,
-      "2026-06-01": 279
+      "2026-06-01": 279,
+      "2026-08-13": 0
     }
   },
   {
