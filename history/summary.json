@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.oniyx.io.ico",
     "slug": "oniyx",
     "status": "down",
-    "uptime": "54.47%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "53.57%",
-    "time": 3468,
-    "timeDay": 5542,
-    "timeWeek": 6837,
-    "timeMonth": 7859,
-    "timeYear": 3490,
+    "uptime": "54.37%",
+    "uptimeDay": "25.29%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "53.36%",
+    "time": 3458,
+    "timeDay": 388,
+    "timeWeek": 5560,
+    "timeMonth": 7538,
+    "timeYear": 3476,
     "dailyMinutesDown": {
       "2025-08-17": 38,
       "2025-08-19": 185,
@@ -204,7 +204,8 @@
       "2026-05-30": 782,
       "2026-05-31": 591,
       "2026-06-01": 279,
-      "2026-08-13": 0
+      "2026-08-14": 123,
+      "2026-08-13": 953
     }
   },
   {
@@ -218,11 +219,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8509,
-    "timeDay": 10673,
-    "timeWeek": 7819,
-    "timeMonth": 8618,
-    "timeYear": 8509,
+    "time": 8577,
+    "timeDay": 10876,
+    "timeWeek": 7876,
+    "timeMonth": 8622,
+    "timeYear": 8577,
     "dailyMinutesDown": {}
   },
   {
@@ -236,11 +237,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 562,
-    "timeWeek": 537,
-    "timeMonth": 362,
-    "timeYear": 358,
+    "time": 364,
+    "timeDay": 567,
+    "timeWeek": 536,
+    "timeMonth": 369,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -254,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
-    "time": 387,
-    "timeDay": 329,
-    "timeWeek": 321,
-    "timeMonth": 384,
-    "timeYear": 387,
+    "time": 388,
+    "timeDay": 403,
+    "timeWeek": 346,
+    "timeMonth": 379,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2026-08-04": 64
     }
