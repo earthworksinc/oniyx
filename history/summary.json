@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.oniyx.io.ico",
     "slug": "oniyx",
     "status": "up",
-    "uptime": "61.43%",
+    "uptime": "61.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.99%",
+    "uptimeYear": "65.01%",
     "time": 4086,
     "timeDay": 10503,
     "timeWeek": 9132,
@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/century-hvac.ca.ico",
     "slug": "century-hvac",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 6207,
     "timeDay": 5883,
     "timeWeek": 6187,
     "timeMonth": 5077,
     "timeYear": 6207,
     "dailyMinutesDown": {
-      "2026-10-22": 0
+      "2026-10-22": 104
     }
   },
   {
