@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.oniyx.io.ico",
     "slug": "oniyx",
     "status": "down",
-    "uptime": "61.47%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "61.44%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "65.12%",
     "time": 4086,
     "timeDay": 10503,
@@ -159,7 +159,7 @@
       "2026-06-01": 279,
       "2026-08-14": 399,
       "2026-08-13": 953,
-      "2026-10-22": 0
+      "2026-10-22": 301
     }
   },
   {
@@ -167,19 +167,19 @@
     "url": "https://century-hvac.ca",
     "icon": "https://icons.duckduckgo.com/ip3/century-hvac.ca.ico",
     "slug": "century-hvac",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "77.23%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.78%",
-    "time": 6266,
-    "timeDay": 7633,
-    "timeWeek": 6736,
-    "timeMonth": 5267,
-    "timeYear": 6266,
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "76.54%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.77%",
+    "time": 6201,
+    "timeDay": 5917,
+    "timeWeek": 6140,
+    "timeMonth": 5130,
+    "timeYear": 6201,
     "dailyMinutesDown": {
-      "2026-10-22": 328
+      "2026-10-22": 338
     }
   },
   {
@@ -187,27 +187,29 @@
     "url": "https://owntravel.ca",
     "icon": "https://icons.duckduckgo.com/ip3/owntravel.ca.ico",
     "slug": "own-travel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 928,
     "timeWeek": 569,
     "timeMonth": 533,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-22": 5
+    }
   },
   {
     "name": "Web App",
     "url": "https://app.oniyx.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.oniyx.io.ico",
     "slug": "web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -217,7 +219,8 @@
     "timeMonth": 350,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2026-08-04": 64
+      "2026-08-04": 64,
+      "2026-10-22": 0
     }
   }
 ]
