@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub.oniyx.io.ico",
     "slug": "oniyx",
     "status": "down",
-    "uptime": "61.44%",
-    "uptimeDay": "79.10%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "99.31%",
+    "uptime": "61.39%",
+    "uptimeDay": "38.86%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "65.12%",
     "time": 4086,
-    "timeDay": 10503,
-    "timeWeek": 9132,
-    "timeMonth": 8583,
+    "timeDay": 0,
+    "timeWeek": 8899,
+    "timeMonth": 8518,
     "timeYear": 4296,
     "dailyMinutesDown": {
       "2026-02-09": 275,
@@ -125,7 +125,6 @@
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
-      "2025-10-23": 1440,
       "2026-03-05": 89,
       "2026-03-14": 165,
       "2026-04-09": 767,
@@ -159,7 +158,8 @@
       "2026-06-01": 279,
       "2026-08-14": 399,
       "2026-08-13": 953,
-      "2026-10-22": 301
+      "2026-10-23": 227,
+      "2026-10-22": 653
     }
   },
   {
@@ -168,18 +168,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/century-hvac.ca.ico",
     "slug": "century-hvac",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "76.54%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.77%",
-    "time": 6201,
-    "timeDay": 5917,
-    "timeWeek": 6140,
-    "timeMonth": 5130,
-    "timeYear": 6201,
+    "uptime": "99.39%",
+    "uptimeDay": "43.81%",
+    "uptimeWeek": "90.90%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.39%",
+    "time": 6142,
+    "timeDay": 4344,
+    "timeWeek": 5146,
+    "timeMonth": 4828,
+    "timeYear": 6142,
     "dailyMinutesDown": {
-      "2026-10-22": 338
+      "2026-10-22": 690,
+      "2026-10-23": 227
     }
   },
   {
@@ -188,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/owntravel.ca.ico",
     "slug": "own-travel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.61%",
+    "uptimeDay": "59.41%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.61%",
     "time": 456,
-    "timeDay": 928,
-    "timeWeek": 569,
-    "timeMonth": 533,
+    "timeDay": 0,
+    "timeWeek": 534,
+    "timeMonth": 536,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-10-22": 5
+      "2026-10-23": 227,
+      "2026-10-22": 357
     }
   },
   {
@@ -208,19 +210,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.oniyx.io.ico",
     "slug": "web-app",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.57%",
+    "uptimeDay": "59.75%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.57%",
     "time": 365,
-    "timeDay": 440,
-    "timeWeek": 348,
-    "timeMonth": 350,
+    "timeDay": 0,
+    "timeWeek": 354,
+    "timeMonth": 352,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2026-08-04": 64,
-      "2026-10-22": 0
+      "2026-10-23": 227,
+      "2026-10-22": 352
     }
   }
 ]
